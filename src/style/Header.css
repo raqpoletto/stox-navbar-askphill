@@ -1,0 +1,85 @@
+/* navbar */
+.navbar {
+  height: 13vw;
+  width: 100%;
+  position: fixed;
+  background-color: white;
+  z-index: 20000;
+  display: flex;
+  border-bottom: 1px solid rgb(229, 229, 229);
+}
+
+/* stox logo */
+.navbar-logo {
+  width: 40vw;
+  align-items: center;
+  display: flex;
+  margin-left: 5px;
+}
+
+.navbar-logo img {
+  width: 30vw;
+  display: flex;
+  align-items: center;
+}
+
+.navbar-logo img:hover {
+  cursor: pointer;
+}
+
+/* hamburger menu */
+.navbar-hamburger svg {
+  width: 4.8vw;
+  height: 100%;
+  display: flex;
+  margin-right: 5px;
+  margin-left: 15px;
+  align-items: center;
+  justify-content: space-between;
+}
+
+.navbar-hamburger svg:hover {
+  cursor: default;
+}
+
+/* bag icon */
+.navbar-bag {
+  display: flex;
+  align-items: center;
+  position: relative;
+}
+.shopping-bag {
+  width: 6vw;
+  height: 6vw;
+  color: #000;
+  margin-right: 4vw;
+  margin-left: 48vw;
+}
+
+@media screen and (max-width: 1020px) {
+  .navbar {
+    height: 20vw;
+  }
+  .navbar-logo {
+    width: 30vw;
+    margin-left: 4vw;
+  }
+  .navbar-logo img {
+    width: 30vw;
+  }
+  .navbar-hamburger svg {
+    width: 8vw;
+    margin-right: 0;
+    margin-left: 4vw;
+  }
+  .navbar-bag {
+    margin-right: 0;
+    margin-left: 0;
+  }
+  .shopping-bag {
+    width: 7vw;
+    height: 7vw;
+    margin-right: 2vw;
+    margin-left: 44vw;
+  }
+}
