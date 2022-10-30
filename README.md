@@ -1,4 +1,4 @@
-# Getting Started with Create React App
+# This is an recreation of the mobile menu from STOX energy socks as an assignment for Ask Phill.
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
