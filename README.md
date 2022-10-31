@@ -1,4 +1,4 @@
-## This is an recreation of the mobile menu from STOX energy socks as an assignment for Ask Phill.
+## This is a recreation of the mobile menu from STOX energy socks as an assignment for Ask Phill.
 
 This project is adapted to mobile only
 
