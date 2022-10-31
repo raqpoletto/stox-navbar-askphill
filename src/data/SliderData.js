@@ -1,46 +1,46 @@
-import Everyday_Img from "../images/Daily_Img.jpeg";
-import Medical_Img from "../images/Medical_Img.jpeg";
-import Sport_Img from "../images/Sport_Img.jpeg";
-import ToRecover_Img from "../images/ToRecover_Img.jpeg";
-import ToSki_Img from "../images/ToSki_Img.jpeg";
-import ToTravel_Img from "../images/ToTravel_Img.jpeg";
-import Hiking_Img from "../images/ToWalk_Img.jpeg";
+import Sports from "../assets/image1.jpeg";
+import Skiing from "../assets/image2.jpeg";
+import Everyday from "../assets/image3.jpeg";
+import Hiking from "../assets/image4.jpeg";
+import Medical from "../assets/image5.jpeg";
+import Travel from "../assets/image6.jpeg";
+import Recovery from "../assets/image7.jpeg";
 
 const SliderData = [
   {
     id: 0,
     title: "Sports",
-    image: Sport_Img,
+    image: Sports,
   },
   {
     id: 1,
     title: "Skiing",
-    image: ToSki_Img,
+    image: Skiing,
   },
   {
     id: 2,
     title: "Everyday",
-    image: Everyday_Img,
+    image: Everyday,
   },
   {
     id: 3,
     title: "Hiking",
-    image: Hiking_Img,
+    image: Hiking,
   },
   {
     id: 4,
     title: "Medical",
-    image: Medical_Img,
+    image: Medical,
   },
   {
     id: 5,
     title: "Travel",
-    image: ToTravel_Img,
+    image: Travel,
   },
   {
     id: 6,
     title: "Recovery",
-    image: ToRecover_Img,
+    image: Recovery,
   },
 ];
 

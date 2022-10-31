@@ -1,5 +1,4 @@
 import React, { useState } from "react";
-import Accordion from "./Accordion";
 import logo from "../assets/logo.svg";
 import bag from "../assets/bag.svg";
 import "../style/Header.css";
@@ -30,7 +29,6 @@ function Header() {
           <img src={bag} className="shopping-bag" alt="shopping bag" />
         </div>
       </section>
-      {isMenuOpen && <Accordion />}
     </>
   );
 }

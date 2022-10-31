@@ -1,0 +1,12 @@
+.arrow {
+  height: 1.6em;
+  width: 1.6em;
+}
+.menu-item {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: space-between;
+  margin: 0 1.8em;
+  cursor: pointer;
+}
