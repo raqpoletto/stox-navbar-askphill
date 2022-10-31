@@ -1,0 +1,65 @@
+.footer {
+  display: block;
+  font-size: 3.06667vw;
+  color: #000;
+  letter-spacing: 0.1em;
+  line-height: 4.8vw;
+  padding: 12vw;
+  justify-content: flex-start;
+
+  &__menu {
+    display: flex;
+    text-transform: uppercase;
+    padding-bottom: 6vw;
+
+    &--item {
+      color: inherit;
+      text-decoration: none;
+      padding-right: 4vw;
+    }
+  }
+
+  &__contact {
+    letter-spacing: 0.05em;
+    padding-bottom: 6vw;
+    justify-content: flex-start;
+
+    p {
+      display: block;
+      padding-bottom: 5vw;
+    }
+  }
+
+  &__language-select {
+    display: flex;
+    text-transform: uppercase;
+    letter-spacing: 0.05em;
+    padding-bottom: 8vw;
+
+    &--languages {
+      font-size: 3.06667vw;
+      letter-spacing: 0.1em;
+
+      -moz-appearance: none; /* Firefox */
+      -webkit-appearance: none; /* Safari and Chrome */
+      appearance: none;
+
+      border: none;
+      background-color: #fff;
+
+      &:focus {
+        outline: none;
+      }
+    }
+
+    &::after {
+      content: "\203A";
+      color: #000;
+      display: inline-block;
+      line-height: 0;
+      font-size: 5vw;
+      font-weight: 500;
+      transform: rotate(90deg);
+    }
+  }
+}

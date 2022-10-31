@@ -8,7 +8,7 @@ const SliderWrapper = ({ slideData }) => {
   ));
 
   return (
-    <div className="SliderWrapper">
+    <div className="slider-wrapper">
       <div className="SliderWrapper-Inner">{slides}</div>
     </div>
   );
