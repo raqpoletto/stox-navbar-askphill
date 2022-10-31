@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/stox-navbar-askphill/static/css/main.d3f7f164.css",
+    "main.js": "/stox-navbar-askphill/static/js/main.f8904c5d.js",
+    "static/js/787.12bc7ea7.chunk.js": "/stox-navbar-askphill/static/js/787.12bc7ea7.chunk.js",
+    "static/media/image5.jpeg": "/stox-navbar-askphill/static/media/image5.418f6428e237ba7c5494.jpeg",
+    "static/media/image4.jpeg": "/stox-navbar-askphill/static/media/image4.2908ab212645f1fe9c23.jpeg",
+    "static/media/image1.jpeg": "/stox-navbar-askphill/static/media/image1.7b0d9b9ae7c6e80c7217.jpeg",
+    "static/media/image6.jpeg": "/stox-navbar-askphill/static/media/image6.d84360a8429ec5d3201b.jpeg",
+    "static/media/image7.jpeg": "/stox-navbar-askphill/static/media/image7.0e45fd9d4317bf253d59.jpeg",
+    "static/media/image2.jpeg": "/stox-navbar-askphill/static/media/image2.5fa719256a29c51eee9a.jpeg",
+    "static/media/image3.jpeg": "/stox-navbar-askphill/static/media/image3.c52a0e416baef51b83b8.jpeg",
+    "static/media/logo.svg": "/stox-navbar-askphill/static/media/logo.eafa9e6109310db47266048100dc549d.svg",
+    "index.html": "/stox-navbar-askphill/index.html",
+    "static/media/bag.svg": "/stox-navbar-askphill/static/media/bag.3fb7279d79213fb206e80eccad91882e.svg",
+    "main.d3f7f164.css.map": "/stox-navbar-askphill/static/css/main.d3f7f164.css.map",
+    "main.f8904c5d.js.map": "/stox-navbar-askphill/static/js/main.f8904c5d.js.map",
+    "787.12bc7ea7.chunk.js.map": "/stox-navbar-askphill/static/js/787.12bc7ea7.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d3f7f164.css",
+    "static/js/main.f8904c5d.js"
+  ]
+}
