@@ -1,4 +1,5 @@
 {
+  "homepage": "https://raqpoletto.github.io/stox-navbar-askphill/",
   "name": "stox-navbar-askphill",
   "version": "0.1.0",
   "private": true,
@@ -14,10 +15,10 @@
     "web-vitals": "^2.1.4"
   },
   "scripts": {
+    "predeploy": "npm run build",
+    "deploy": "gh-pages -d build",
     "start": "react-scripts start",
-    "build": "react-scripts build",
-    "test": "react-scripts test",
-    "eject": "react-scripts eject"
+    "build": "react-scripts build"
   },
   "eslintConfig": {
     "extends": [
@@ -38,6 +39,7 @@
     ]
   },
   "devDependencies": {
+    "gh-pages": "^4.0.0",
     "webpack": "^5.74.0"
   }
 }

@@ -6,4 +6,6 @@ This project is adapted to mobile only
 
 In the project directory, you can run:
 
-### `npm start`
+# To check de deployment click on the link below
+
+(https://raqpoletto.github.io/stox-navbar-askphill/)
